@@ -55,6 +55,23 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 活动[Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划](https://100t.xiaomimimo.com/)北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00
 
 2026-04-27
+[👍《时代》杂志发布 2026 年最具影响力 10 家 AI 公司名单](https://time.com/article/2026/04/27/time100-companies-ai/)
+《时代》最新公布的榜单中，中国企业强势占据三席。这份名单不仅评估了底层算力和基础模型，更看重开源生态的辐射力与 C 端产品的广泛落地：
+
+| 归属地 | 公司名称 | 代表作 |
+| :--- | :--- | :--- |
+| 🇨🇳 中国 | **字节跳动 (ByteDance)** | 豆包 (Doubao)、Seedance 2 视频生成大模型、扣子 (Coze) |
+| 🇨🇳 中国 | **智谱 AI (Zhipu)** | GLM-5 基座模型、ChatGLM (主打无需西方芯片的国产算力底座) |
+| 🇨🇳 中国 | **阿里巴巴 (Alibaba)** | 通义千问 (Qwen) 开源模型家族 |
+| 🇺🇸 美国 | **OpenAI** | ChatGPT 5.5、GPT Image2 |
+| 🇺🇸 美国 | **Alphabet (Google)** | Gemini 系列、Project Astra (全模态实时智能体) |
+| 🇺🇸 美国 | **Anthropic** | Claude 系列、Claude Code (面向开发者的智能体命令行工具) |
+| 🇺🇸 美国 | **Meta** | Llama 开源家族、Meta AI (内置于 IG/WhatsApp/Facebook) |
+| 🇺🇸 美国 | **亚马逊 (Amazon)** | AWS Bedrock (AI 算力与模型托管云底座) |
+| 🇺🇸 美国 | **Hugging Face** | Hugging Face 平台 (全球最大的开源 AI 模型库/“AI 界的 GitHub”) |
+| 🇫🇷 法国 | **Mistral AI** | Mistral/Mixtral 系列 (欧洲最高效的开源小模型架构) |
+
+2026-04-27
 [外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20623)
 
 2026-04-27

@@ -79,12 +79,15 @@ Agent Claude Code VS OpenClaw
 ~~2025-09-30
 视频[👍OpenAI 发布 Sora 2](https://openai.com/index/sora-2/)R.I.P. Sora 2024.9-2026.4~~
 
+2025-03-24
+[👍百度无代码工具“秒哒”全量上线](https://www.miaoda.cn/)
+
 2025-02-24
 [👍Anthropic 发布 Claude 3.7 Sonnet 与 Claude Code (预览版)](https://www.anthropic.com/news/claude-3-7-sonnet)
 推出了市场上首个混合推理模型（支持标准模式与扩展思考模式）。同日，**首次发布了面向智能体编程的命令行工具 Claude Code**。
 
-
-
+2025-01-20
+[👍字节跳动正式发布 AI 编程工具 Trae](https://www.trae.ai/changelog)
 
 ## 2024
 

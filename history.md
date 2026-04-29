@@ -39,6 +39,14 @@
 免费用户每天5张
 有图不再代表有真相
 
+2026-04-17
+[Anthropic Labs 发布 Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
+由最新的视觉模型 Claude Opus 4.7 驱动，可将静态线框图交给 Claude Code 直接实现。
+
+2026-04-16
+[👍Anthropic 发布 Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+在代码、智能体和多步任务上带来更强性能，Claude Code 默认的 effort level 提升至 xhigh。
+
 2026-02-12
 视频[👍字节跳动 发布 Seedance 2.0](https://seed.bytedance.com/zh/blog/official-launch-of-seedance-2-0)
 
@@ -49,6 +57,12 @@
 
 ~~2025-09-30
 视频[👍OpenAI 发布 Sora 2](https://openai.com/index/sora-2/)R.I.P. Sora 2024.9-2026.4~~
+
+2025-02-24
+[👍Anthropic 发布 Claude 3.7 Sonnet 与 Claude Code (预览版)](https://www.anthropic.com/news/claude-3-7-sonnet)
+推出了市场上首个混合推理模型（支持标准模式与扩展思考模式）。同日，**首次发布了面向智能体编程的命令行工具 Claude Code**。
+
+
 
 
 ## 2024

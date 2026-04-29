@@ -92,10 +92,10 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 2026-04-23
 [字节跳动发布 Seed3D 2.0](https://seed.bytedance.com/zh/seed3d_2_0)
 
-2026-04-21
+**2026-04-21
 图片[👍OpenAI 正式发布了 ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 免费用户每天5张
-有图不再代表有真相
+有图不再代表有真相**
 
 2026-04-17
 [Anthropic Labs 发布 Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
@@ -116,12 +116,12 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 [👍飞书正式上线 OpenClaw 官方插件](https://www.feishu.cn/content/article/7613711414611463386)
 用户授权后，OpenClaw 可以直接以用户的身份看文档、理解群聊上下文、核对日历。
 
-2026-02-12
-视频[👍字节跳动 发布 Seedance 2.0](https://seed.bytedance.com/zh/blog/official-launch-of-seedance-2-0)
+**2026-02-12
+视频[👍字节跳动 发布 Seedance 2.0](https://seed.bytedance.com/zh/blog/official-launch-of-seedance-2-0)**
 
-2026-01-30
+**2026-01-30
 [👍项目正式定名为 OpenClaw，GitHub 斩获 8.5 万 Star，2026-04-29 36.6万](https://github.com/openclaw/openclaw)
-因开发者 Steinberger 觉得“Moltbot”读起来不够顺口，项目再次更名为 OpenClaw。在此期间，凭借其强大的系统接管能力和持久化记忆，项目短短一周内在 GitHub 狂揽超 85,000 颗 Star 和 11,500 次 Fork，彻底出圈。
+因开发者 Steinberger 觉得“Moltbot”读起来不够顺口，项目再次更名为 OpenClaw。在此期间，凭借其强大的系统接管能力和持久化记忆，项目短短一周内在 GitHub 狂揽超 85,000 颗 Star 和 11,500 次 Fork，彻底出圈。**
 
 2026-01-27
 [因 Anthropic 商标投诉，项目改名为 Moltbot]
@@ -138,9 +138,9 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 2025-03-24
 [👍百度无代码工具“秒哒”全量上线](https://www.miaoda.cn/)
 
-2025-02-24
+**2025-02-24
 [👍Anthropic 发布 Claude 3.7 Sonnet 与 Claude Code (预览版)](https://www.anthropic.com/news/claude-3-7-sonnet)
-推出了市场上首个混合推理模型（支持标准模式与扩展思考模式）。同日，**首次发布了面向智能体编程的命令行工具 Claude Code**。
+推出了市场上首个混合推理模型（支持标准模式与扩展思考模式）。同日，首次发布了面向智能体编程的命令行工具 Claude Code。**
 
 2025-01-20
 [👍字节跳动正式发布 AI 编程工具 Trae](https://www.trae.ai/changelog)
@@ -159,8 +159,8 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 
 ## 2022
 
-2022-11-30
-[ChatGPT 发布 GPT-3.5](https://openai.com/index/chatgpt/)
+**2022-11-30
+[ChatGPT 发布 GPT-3.5](https://openai.com/index/chatgpt/)**
 
 
 ~~2022-08-22
@@ -171,3 +171,22 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 
 2021-06-29
 [GitHub Copilot 内测](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/)
+
+
+## 2019
+
+2019-07-16
+[👍Hugging Face 将核心库正式更名为 `transformers`]
+Hugging Face 团队将此前爆火的 `pytorch-pretrained-bert` 正式更名为 `transformers`，并发布 v2.0 版本。这一改名标志着一个“大一统”时代的开始：它不再仅仅是 BERT 的 PyTorch 实现，而是成为了封装所有 Transformer 架构模型（GPT、RoBERTa、T5 等）的工业标准接口。Google 发明了理论，而 Hugging Face 借此拿下了开发者的生态。
+
+## 2018
+
+2018-10-31
+[Hugging Face 开源 `pytorch-pretrained-bert` 项目]
+Google 发布 BERT 模型后，其官方代码极难部署部署。Hugging Face 的创始人 Thomas Wolf 为了自家聊天机器人开发方便，花了一个周末将其移植到了更易用的 PyTorch 框架上并开源。这个“无心插柳”的代码库意外引发了全球开发者的疯狂下载，Hugging Face 的命运齿轮由此转动，开始向“赛博军火库”全面转型。
+
+## 2017
+
+2017-06-12
+[👍Google 团队发表神之论文《Attention Is All You Need》](https://arxiv.org/abs/1706.03762)
+这是现代 AI 历史上最伟大的“创世论文”。8 位 Google 研究员（后来被称为“Transformer 八子”）提出了一种完全基于注意力机制（Self-Attention）的全新架构——Transformer。它抛弃了传统的 RNN 和 CNN，完美解决了长序列并行计算的瓶颈。这篇论文直接为后来的大模型（LLM）爆炸设定了底层的“物理定律”，没有它，就没有后来的 ChatGPT 和百模大战。

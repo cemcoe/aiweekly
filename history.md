@@ -12,8 +12,44 @@ Agent Claude Code VS OpenClaw
 3D Seed3D 2.0
 
 ## 2026
+2026-12-10
+[👍Google DeepMind 发布 Project Astra 全量版与 Gemini 4 预览版](https://blog.google/technology/ai/gemini-4-and-astra-ga/)
+被誉为“通用 AI 助理的终极形态”，Astra 结束了长达一年半的内测正式全量上线，不仅能通过手机摄像头实时理解物理世界，更首次展示了跨设备的连续记忆能力；同步官宣的 Gemini 4 则在原生视频生成与长逻辑链推理上确立了新标杆。
+
+2026-11-06
+活动[👍OpenAI DevDay 2026：发布 Swarm API 与“智能体应用商店”](https://openai.com/blog/devday-2026-multi-agent-era)
+奥特曼在主题演讲中正式宣告“单体大模型时代结束，群体智能（Multi-Agent）时代到来”。全新的 Swarm API 允许开发者极低成本编排多个专用 AI 互相协作，同时 OpenAI 上线了原生的 Agent Store，彻底取代了早期的 GPTs 商店。
+
+2026-10-24
+[👍小冰公司与智谱 AI 联合发布“具身智能”操作系统 EmbodiedOS](https://www.zhipuai.cn/news/embodied-os-2026)
+国内首个专为消费级机器人打造的底层 OS，彻底打通了大模型的“脑”与机器人的“四肢”，并在发布会现场展示了无缝接入宇树科技（Unitree）等多款人形机器人的通用家政能力。
+
+2026-09-18
+活动[Meta Connect 2026：开源王者 Llama 4 重磅发布](https://ai.meta.com/blog/llama-4-open-source-agi/)
+扎克伯格宣布 Llama 4 正式开源。该模型不仅在参数量上达到万亿级别，更实现了**原生全模态（包含实时双向视频与 3D 资产生成）**，其旗舰版本在基准测试中逼近 GPT-5.5，再次将开源生态的门槛拉升至新高度。
+
+2026-08-15
+[👍月之暗面（Moonshot AI）发布 Kimi OS，上下文窗口突破 1 亿 Token](https://www.moonshot.cn/news/kimi-os-100m)
+Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 Token 的无限记忆能力意味着用户可以将自己一生的日记、所有工作文档和长达数月的聊天记录全量塞入其中，Kimi OS 能在 3 秒内完成精准检索与推理。
+
+2026-07-09
+活动[世界人工智能大会 (WAIC 2026) 在上海举办，华为发布昇腾 920 芯片](https://www.waic.com.cn/news/2026)
+华为在主论坛上正式发布新一代 AI 算力底座昇腾（Ascend）920 系列，其集群互联带宽和算力利用率首次在实际商业环境测试中全面对标英伟达 B200 架构，标志着国内高端算力突围取得实质性进展。
+
+2026-06-08
+活动[👍Apple WWDC 2026：Apple Intelligence 2.0 与“端侧觉醒”](https://www.apple.com/newsroom/2026/06/apple-introduces-apple-intelligence-2-0/)
+苹果宣布 iOS 20 将深度重构底层架构，Siri 正式被系统级系统智能体取代。无需云端 API，仅靠 iPhone 18 Pro 的 A20 芯片，即可在端侧本地运行百亿参数的多模态 Agent，实现跨 App 的全自动操作（如：“帮我把刚拍的视频剪成 10 秒钟，配上节奏感强的音乐发给妈妈”）。
+
+---以上为推演---
+
+2026-05-19
+活动[Google I/O 2026 开发者大会](https://io.google/2026/about)
+谷歌将于 5 月 19 日至 20 日在线上及线下举办年度盛会。结合前期议程泄露，预计此次大会的重点将围绕“Agentic AI（智能体 AI 时代）的定义”、Gemma 开源模型家族的全新迭代，以及 Chrome DevTools 中专为 AI Agent 开发打造的全新工作流展开。
+
 2026-05-13
 活动[Create2026百度AI开发者大会定档5月13至14日](https://www.xinhuanet.com/info/20260409/87fe6f81bf094881a3ca3e91614ce829/c.html)
+
+---以上为订档---
 
 2026-04-28
 活动[Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划](https://100t.xiaomimimo.com/)北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00

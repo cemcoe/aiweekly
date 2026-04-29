@@ -12,6 +12,9 @@ Agent Claude Code VS OpenClaw
 3D Seed3D 2.0
 
 ## 2026
+2026-05-13
+活动[Create2026百度AI开发者大会定档5月13至14日](https://www.xinhuanet.com/info/20260409/87fe6f81bf094881a3ca3e91614ce829/c.html)
+
 2026-04-28
 活动[Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划](https://100t.xiaomimimo.com/)北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00
 

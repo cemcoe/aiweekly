@@ -93,6 +93,10 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 [👍Anthropic 发布 Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 在代码、智能体和多步任务上带来更强性能，Claude Code 默认的 effort level 提升至 xhigh。
 
+2026-03-31
+[👍Anthropic 发生史诗级“乌龙”：Claude Code 完整源码通过 npm 意外泄露](https://www.anthropic.com/news/claude-code-incident-report)
+由于在发布新版本时遗漏了 `.npmignore` 配置文件，导致包含 51 万行 TypeScript 源码的 `.map` 文件被公开。此次泄露彻底揭开了 Claude 命令行工具的底层逻辑，包括其精密的 Multi-Agent 任务编排引擎以及尚未发布的“赛博宠物”交互系统，成为 2026 年 AI 圈最大规模的生产级代码泄露事件。
+
 2026-03-29
 [企业微信支持CLI开源](https://open.work.weixin.qq.com/help/wap/detail?docid=21676)
 

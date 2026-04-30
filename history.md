@@ -69,7 +69,7 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 | 🇺🇸 美国 | **Meta** | Llama 开源家族、Meta AI (内置于 IG/WhatsApp/Facebook) |
 | 🇺🇸 美国 | **亚马逊 (Amazon)** | AWS Bedrock (AI 算力与模型托管云底座) |
 | 🇺🇸 美国 | **Hugging Face** | Hugging Face 平台 (全球最大的开源 AI 模型库/“AI 界的 GitHub”) |
-| 🇫🇷 法国 | **Mistral AI** | Mistral/Mixtral 系列 (欧洲最高效的开源小模型架构) |
+| 🇫🇷 法国 | **Mistral AI** | Le Chat |
 
 2026-04-27
 [外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20623)

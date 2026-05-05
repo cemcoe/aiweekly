@@ -37,6 +37,9 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 - 活动平台：抖音/20s视频
 - 活动话题：#旺仔AI创作大赛#
 
+2026-05-20
+“豆包”最快将于5月中下旬上线首款付费包月产品。
+
 2026-05-19
 活动[Google I/O 2026 开发者大会](https://io.google/2026/about)
 谷歌将于 5 月 19 日至 20 日在线上及线下举办年度盛会。结合前期议程泄露，预计此次大会的重点将围绕“Agentic AI（智能体 AI 时代）的定义”、Gemma 开源模型家族的全新迭代，以及 Chrome DevTools 中专为 AI Agent 开发打造的全新工作流展开。
@@ -45,6 +48,13 @@ Kimi 从一个“聊天窗口”正式进化为“个人数据中枢”。1 亿 
 活动[Create2026百度AI开发者大会定档5月13至14日](https://www.xinhuanet.com/info/20260409/87fe6f81bf094881a3ca3e91614ce829/c.html)
 
 ---以上为订档---
+
+2026-05-02
+
+[OpenAI 最近在 Codex 上的更新，引入了类似电子宠物 Tamagotchi 的桌面悬浮伴侣。](https://developers.openai.com/codex/app/settings#codex-pets)话题度很高
+
+2026-05-01
+[美国国防部宣布与SpaceX、OpenAI、Google、NVIDIA、Reflection、Microsoft、AWS及Oracle等8家公司达成协议，将先进AI能力部署至国防部机密网络以提升作战决策优势](https://war.gov)
 
 2026-04-28
 活动[Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划](https://100t.xiaomimimo.com/)北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00
